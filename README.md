@@ -7,4 +7,4 @@
 
 Далее необходимо задать prompt для нейросети (по желанию), а также добавить токен, которые можно получить по [ссылке](https://aistudio.google.com/app/prompts/new_chat?hl=ru&_gl=1*l742ce*_ga*NDI0NDUwNzgyLjE3MzA5NjUzNTE.*_ga_P1DBVKWT6V*MTczMDk2NTM1MS4xLjEuMTczMDk2NTQwNi41LjAuMjEzNzMyMDc4OQ..)
 
-##Для работы приложения и получения токена необходим VPN.
+# Для работы приложения и получения токена необходим VPN.
